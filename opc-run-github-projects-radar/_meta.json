@@ -1,0 +1,9 @@
+{
+  "slug": "opc-run-github-projects-radar",
+  "version": "1.0.0",
+  "displayName": "GitHub精选开源项目排行和搜索",
+  "author": "opc-run",
+  "homepage": "https://opc.run/projects",
+  "license": "MIT",
+  "tags": ["github", "open-source", "trending", "search", "developer-tools"]
+}
